@@ -1,1 +1,2 @@
-print('shraddha')
+while True:
+ print("wish")
